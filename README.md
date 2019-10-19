@@ -6,6 +6,7 @@ Install Docker Compose https://docs.docker.com/compose/install/
 
 ```sh
 $ cd expression-engine-docker-base
+$ cd docker
 $ docker-compose up
 ```
 
