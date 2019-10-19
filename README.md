@@ -8,3 +8,5 @@ Install Docker Compose https://docs.docker.com/compose/install/
 $ cd expression-engine-docker-base
 $ docker-compose up
 ```
+
+Setup EE on http://127.0.0.1/admin.php
